@@ -1,6 +1,7 @@
 # Trivium Python
 
-Implementación del Algoritmo de Cifrado de Flujo Trivium en Python 
+Implementación del Algoritmo de Cifrado de Flujo Trivium en Python
+
 Tarea de para Principios de Criptografia Cenfotec 2016
 
 ## Como usarlo?
