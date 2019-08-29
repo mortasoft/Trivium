@@ -23,6 +23,7 @@ git clone https://github.com/mortasoft/Trivium.git
 3. Ejecutar el script:
 
 ```bash
+cd Trivium
 python2.7 trivium.py
 
 ```
