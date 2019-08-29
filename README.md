@@ -31,9 +31,8 @@ python2.7 trivium.py
 
 ## Licencia
 
-``
 Copyright (C) 2016 Johnny Pan
+
 Copyright (C) 2016 Mario Zamora
-``
 
 Licensed under the GNU General Public License v3.0
